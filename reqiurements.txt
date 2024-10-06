@@ -1,4 +1,6 @@
 streamlit
-plotly == 5.18.0
+plotly 
 seaborn
 matplotlib
+pandas
+scikit-learn
